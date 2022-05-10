@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+    font-family: 'Koulen', cursive;
+}
+
+h1 {
+    background: -webkit-linear-gradient(rgb(0, 145, 12), rgb(22, 197, 7));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    margin-left: 5%;
+}
+
+h2 {
+    margin-left: 5%;
+    font-size: 25px;
+    font-weight: bolder;
+    color: White;
+}

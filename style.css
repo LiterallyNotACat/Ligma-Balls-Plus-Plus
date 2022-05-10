@@ -234,6 +234,7 @@ header {
     font-size: 155%;
     font-weight: 300;
     color:white;
+    font-family: 'Montserrat', sans-serif;
   }
 
   .info3 {
@@ -252,6 +253,7 @@ header {
     margin-left: 55%;
     font-size: 155%;
     color:white;
+    font-family: 'Montserrat', sans-serif;
   }
 
   .navbar1 {
@@ -368,6 +370,7 @@ header {
     overflow: hidden;
     cursor: pointer;
     border-radius: 10px;
+    font-family: 'Koulen', cursive
   }
   
   .button:after {
@@ -388,4 +391,9 @@ header {
     margin: 0;
     opacity: 1;
     transition: 0s
+  }
+
+  #downloadportal {
+    color: gray;
+    text-align: center;
   }
