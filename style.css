@@ -137,7 +137,7 @@ header {
 
    .bg-image {
     background-image: url("https://c4.wallpaperflare.com/wallpaper/707/220/899/gradient-blue-pink-abstract-art-wallpaper-preview.jpg");
-    height: 45%;
+    height: 75%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -405,5 +405,20 @@ header {
 
   #downloadportal {
     color: gray;
+    text-align: center;
+  }
+
+  #fact {
+    font-weight: lighter;
+  }
+
+  .navbar1 {
+    background: -webkit-linear-gradient(rgb(0, 38, 255), rgb(41, 116, 255));
+    border-radius: 70px;
+    width: 96%%;
+  }
+
+  .navbar p {
+    color: #000000;
     text-align: center;
   }
