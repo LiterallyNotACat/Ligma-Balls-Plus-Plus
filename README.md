@@ -1,4 +1,1 @@
-Liquidbounce++ website
-rdeef, you know html right?
-if you do, you should update the version on the website if i couldn't update it cuz life
-                                                                          -Cat uwu
+You update the LB++ version on website if i couldn't. I will handle the update logs when i have time.
