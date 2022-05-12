@@ -23,7 +23,7 @@ header {
 .nav__links a,
 .cta,
 .overlay__content a {
-  font-family: "Montserrat", sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
   color: #edf0f1;
   text-decoration: none;
@@ -184,38 +184,6 @@ header {
     border-radius: 5px;
   }
 
-  .card {
-    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.274);
-    max-width: 300px;
-    margin: auto;
-    text-align: center;
-    font-family: arial;
-    border-radius: 10px;
-    background-color: rgba(46, 46, 46, 0.815);
-    color: white
-  }
-  
-  .price {
-    color: rgb(0, 255, 76);
-    font-size: 22px;
-  }
-  
-  .card button {
-    border: none;
-    outline: 0;
-    padding: 12px;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);;
-    text-align: center;
-    cursor: pointer;
-    width: 100%;
-    font-size: 18px;
-    border-radius: 0px 0px 10px 10px;
-  }
-  
-  .card button:hover {
-    opacity: 0.7;
-  }
   .feature {
      font-weight: bold;
   }
@@ -419,7 +387,7 @@ header {
   .navbar1 {
     background: -webkit-linear-gradient(rgb(0, 38, 255), rgb(41, 116, 255));
     border-radius: 70px;
-    width: 96%%;
+    width: 96%;
   }
 
   .navbar p {
