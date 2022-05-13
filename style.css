@@ -385,9 +385,9 @@ header {
   }
 
   .navbar1 {
-    background: -webkit-linear-gradient(rgb(0, 38, 255), rgb(41, 116, 255));
+    background: -webkit-linear-gradient(rgb(44, 44, 44), rgb(0, 0, 0));
     border-radius: 70px;
-    width: 96%;
+    width: 100%;
   }
 
   .navbar p {
