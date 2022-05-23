@@ -195,7 +195,7 @@
     .card {
         box-shadow: 0 4px 8px 0 rgba(92, 92, 92, 0.2);
         max-width: 550px;
-        max-height: 550px;
+        max-height: auto;
         margin: auto;
         text-align: center;
         font-family: arial;
