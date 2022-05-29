@@ -393,3 +393,12 @@ header {
     color: #000000;
     text-align: center;
   }
+
+  #discordcatto {
+    border-radius: 10px;
+  }
+
+  #discordmos {
+    border-radius: 10px;
+    margin-right: 5%;
+  }
