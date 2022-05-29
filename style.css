@@ -347,26 +347,16 @@ header {
     height: auto;
     text-align: center;
     -webkit-transition-duration: 0.4s; /* Safari */
+    box-shadow: #222222;
     transition-duration: 0.4s;
     text-decoration: none;
     overflow: hidden;
     cursor: pointer;
     border-radius: 10px;
-    font-family: 'Koulen', cursive
+    font-family: 'Koulen', cursive;
+    transition-duration: 0.4s;
   }
-  
-  .button:after {
-    content: "";
-    background: #ffffff;
-    display: block;
-    position: absolute;
-    padding-top: 300%;
-    padding-left: 350%;
-    margin-left: -20px!important;
-    margin-top: -120%;
-    opacity: 0;
-    transition: all 0.8s
-  }
+
   
   .button:active:after {
     padding: 0;
