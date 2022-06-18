@@ -390,3 +390,7 @@ header {
     border-radius: 10px;
     margin-right: 5%;
   }
+
+* {
+  scroll-behavior: smooth;
+}
