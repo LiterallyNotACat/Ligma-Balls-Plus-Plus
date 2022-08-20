@@ -1,7 +1,0 @@
-1. Extract the .rar file
-2. Press Windows key + R then type %appdata%\.minecraft\Liquidbounce++-1.8\settings then press Enter
-3. Drag and drop the config file to the settings folder
-4. Launch LB++ with forge 1.8.9
-5. Get into a world or a server then open chat by pressing T
-6. Type .config load <config file name>
-7. Have fun and stop being retarded bruh
