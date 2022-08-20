@@ -1,6 +1,0 @@
-1) Press Windows key + r
-2) Paste this into the box: 
-   %appdata%/.minecraft/LiquidBounce++-1.8
-3) Delete the hud.json from the Liquidbounce++ folder
-4) Drag and drop the HUD.json you just download there
-5) Just get into the game and enjoy our new HUD
