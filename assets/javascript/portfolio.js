@@ -79,7 +79,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['LiquidBounce++', 'Lantern', 'Best Free Client?!', 'LiquidBounce+ Fork', 'Made with ❤️', 'What this']);
+  app.titleChanger(['L', 'Li', 'Liq', 'Liqu', 'Liqui', 'Liquid', 'LiquidB', 'LiquidBo', 'LiquidBou', 'LiquidBoun', 'LiquidBounc', 'LiquidBounce', 'LiquidBounce+', 'LiquidBounce++', 'LiquidBounce+', 'LiquidBounce', 'LiquidBounc', 'LiquidBoun', 'LiquidBou', 'LiquidBo', 'LiquidB', 'Liquid', 'Liqui', 'Liqui', 'Liqu', 'Liq', 'Li']);
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 
