@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['LiquidBounce++', 'Lantern', 'Ghost Client', 'Free', 'Open Source Forge Mod', ' lbplusplus.ga'];
+  brandDescription = ['LiquidBounce++', 'Lantern', 'Best Free Client', 'Made with ❤️ by TheMosKau', 'lbplusplus.ga'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
