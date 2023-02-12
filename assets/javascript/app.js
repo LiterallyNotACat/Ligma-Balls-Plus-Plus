@@ -8,7 +8,7 @@ class _app {
   audioElement = null;
   musicVolume = 0.12;
   musicFadeIn = 4000;
-  skippedIntro = true;
+  skippedIntro = false;
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
