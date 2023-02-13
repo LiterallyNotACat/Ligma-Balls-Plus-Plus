@@ -39,34 +39,34 @@ $(document).ready(() => {
   const links = [
     {
       name: 'LiquidBounce++',
-      link: '3cabrwp6',
+      link: '515944/liquidbounceplusplus',
     },
     {
       name: 'Lantern',
-      link: 'yc6s6t29',
+      link: '515944/lantern-client',
     },
     {
       name: 'LiquidBounce++ Github',
-      link: 'ycyu3xhh',
+      link: '515944/lbplusplus-github',
     },
     {
       name: 'Lantern Github',
-      link: 'ctzx8e5e',
+      link: '515944/lanternclient-github',
     },
     {
       name: 'Hardik',
-      link: '2k567kr5',
+      link: '515944/hardik',
     },
     {
       name: 'LiterallyNotACat',
-      link: '5yp847ev',
+      link: '515944/literallynotacat',
     },
   ];
 
   for (let i in links) {
     let link = links[i];
 
-    $('#marquee').append(`<a href="https://tinyurl.com/${link.link}" target="_BLANK">${link.name}</a>`);
+    $('#marquee').append(`<a href="https://direct-link.net/${link.link}" target="_BLANK">${link.name}</a>`);
 
     link = $('#marquee').children('a').last();
 
