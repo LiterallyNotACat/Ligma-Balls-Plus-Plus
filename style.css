@@ -43,4 +43,5 @@ button:hover {
 button:active {
     background-color: rgb(0, 183, 255);
     transition: none;
+    border: 2px solid rgb(0, 183, 255);
 }
