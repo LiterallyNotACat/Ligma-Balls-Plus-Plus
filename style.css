@@ -9,13 +9,13 @@
 body {
     justify-content: center;
     align-items    : center;
-    background     : rgb(198, 218, 245);
+    background     : rgb(20, 20, 20);
 }
 
 h1 {
     font-size: 72px;
     font-weight: 300;
-    background: #00FFF9;
+    background: #003EFF;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-top: 16%;
