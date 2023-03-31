@@ -2,7 +2,7 @@
     margin     : 0;
     padding    : 0;
     box-sizing : border-box;
-    color      : #334e64;
+    color      : #00BEFF;
     font-family: Raleway , sans-serif;
 }
 
@@ -15,7 +15,7 @@ body {
 h1 {
     font-size: 72px;
     font-weight: 300;
-    background: -webkit-linear-gradient(#00BEFF, #292121);
+    background: #00FFF9;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-top: 16%;
